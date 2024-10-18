@@ -7,7 +7,3 @@ Mutiplication
 Percentage
 
 Division
-
-Multiplication
-
-Percentage
