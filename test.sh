@@ -5,3 +5,5 @@ Subtraction
 Multiplication
 
 Equal to
+
+Percentage
