@@ -4,4 +4,4 @@ Subtraction
 
 Multiplication
 
-Percentage
+Equal to
