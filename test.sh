@@ -5,3 +5,5 @@ Subtraction
 Multiplication
 
 Percentage
+
+Division
