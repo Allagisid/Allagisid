@@ -2,4 +2,4 @@ Addition
 
 Subtraction
 
-Percentage
+Multiplication
