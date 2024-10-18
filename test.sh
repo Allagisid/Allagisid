@@ -3,3 +3,5 @@ Addition
 Subtraction
 
 Multiplication
+
+Percentage
