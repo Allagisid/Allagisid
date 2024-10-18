@@ -7,3 +7,5 @@ Multiplication
 Equal to
 
 Percentage
+
+Conditional operator
